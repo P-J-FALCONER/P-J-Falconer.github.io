@@ -76,6 +76,9 @@ h6 {
     width: 12%;
     margin-left: 4%;
 }
+.live_site{
+    color: white;
+}
 .navigation-right {
     float: right;
 }
