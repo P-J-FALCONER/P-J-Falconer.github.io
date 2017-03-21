@@ -79,7 +79,9 @@ h6 {
 .navigation-right {
     float: right;
 }
-
+span.glyphicon-file{
+    font-size: 10em;
+}
 .navigation-right ul li {
     display: inline-block;
 }
