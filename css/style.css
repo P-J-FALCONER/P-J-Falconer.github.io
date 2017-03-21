@@ -185,7 +185,7 @@ ul.address {
     border-color: #00a78e transparent transparent transparent;
 }
 
-.service-head h4 {
+.portfolio-head h4 {
     font-size: 1.2em;
     color: #FFF;
     background: #00a78e;
@@ -195,7 +195,7 @@ ul.address {
     box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.service-head h4:before {
+.portfolio-head h4:before {
     width: 0;
     height: 0;
     position: absolute;
@@ -446,9 +446,9 @@ span.border.one:after {
 }
 
 
-/*-- services --*/
+/*-- portfolio --*/
 
-.service-head h3 {
+.portfolio-head h3 {
     color: #1b242f;
     font-size: 2em;
     font-weight: 300;
@@ -457,7 +457,7 @@ span.border.one:after {
     padding: 0 0 0.2em 0;
 }
 
-.service-head h3 span {
+.portfolio-head h3 span {
     font-weight: 700;
     font-family: 'Asap', sans-serif;
 }
@@ -598,7 +598,7 @@ span.border.one:after {
 .hvr-rectangle-in:focus:before,
 .hvr-rectangle-in:active:before,
 .wthree_about_right_grid:hover .hvr-rectangle-in:before,
-.agileits_services_grid:hover .hvr-rectangle-in:before {
+.agileits_portfolio_grid:hover .hvr-rectangle-in:before {
     -webkit-transform: scale(0);
     transform: scale(0);
 }
@@ -607,19 +607,19 @@ span.border.one:after {
     margin-top: 4em;
 }
 
-#services {
+#portfolio {
     padding: 5em 0;
     background: #1b242f;
 }
 
-.service-head.one h3 {
+.portfolio-head.one h3 {
     color: #fff;
 }
 
 
 /*-- clients --*/
 
-#work {
+#abilities {
     padding: 5em 0;
 }
 
@@ -800,7 +800,7 @@ ul.year li:nth-child(5) {
 }
 
 
-/*--//work--*/
+/*--//abilities--*/
 
 
 /*-- portfolio --*/
@@ -1384,10 +1384,7 @@ span.border.two:after {
         margin-right: 5em;
         min-height: 433px;
     }
-    #work,
-    .blog {
-        padding: 4em 0;
-    }
+    #abilities,
     .footer {
         min-height: 650px;
         padding: 4em 0 0em 0;
@@ -1410,7 +1407,7 @@ span.border.two:after {
         margin-top: -28px;
         padding: 6px 0;
     }
-    .service-head h3 {
+    .portfolio-head h3 {
         font-size: 1.8em;
     }
     .about-left {
@@ -1437,9 +1434,8 @@ span.border.two:after {
         float: right;
         padding: 0.7em 2em 2em 2em;
     }
-    #work,
-    .blog,
-    #services {
+    #abilities,
+    #portfolio {
         padding: 3em 0;
     }
     #port {
@@ -1798,15 +1794,14 @@ span.border.two:after {
     h4.timeline-title {
         font-size: 1em;
     }
-    #work,
-    .blog,
-    #services {
+    #abilities,
+    #portfolio {
         padding: 2em 0;
     }
-    .service-head h3 {
+    .portfolio-head h3 {
         font-size: 1.3em;
     }
-    .service-head h4 {
+    .portfolio-head h4 {
         font-size: 0.9em;
         padding: .5em 1.2em
     }
@@ -2004,7 +1999,7 @@ span.border.two:after {
         padding: 0.5em 1.5em;
         font-size: 0.9em;
     }
-    .service-head h3 {
+    .portfolio-head h3 {
         font-size: 1.4em;
     }
     .mail_right input[type="text"],
@@ -2117,9 +2112,8 @@ span.border.two:after {
         width: 80%;
         margin-top: 8px;
     }
-    #work,
-    .blog,
-    #services {
+    #abilities,
+    #portfolio {
         padding: 1.2em 0;
     }
     span.border,
