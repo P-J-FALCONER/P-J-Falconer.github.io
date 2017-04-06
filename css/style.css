@@ -91,7 +91,7 @@ span.glyphicon-file{
 
 .navigation-right ul li a {
     color: #fff;
-    font-size: 1.5em;
+    font-size: 0.8em;
     text-decoration: none;
     padding: 10px 0;
     text-transform: uppercase;
@@ -1481,7 +1481,7 @@ span.border.two:after {
 
 @media(max-width:991px) {
     .navigation-right ul li a {
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
     .link-effect-3 a {
         padding: 10px 0;
