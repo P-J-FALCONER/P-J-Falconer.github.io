@@ -1,7 +1,10 @@
-# Patrick Falconer's Professional Webpage
-
-# To-Do
-  * Fix menu bar error on mobile
-  * add personal interest section
-  * add Hobbies Section
-  * Update Photos
+# Pat Falconer's Personal Site & Blog
+## About
+### If You wanna Know what I'm about check out my (site)[google.com]
+## Author 
+### [Pat Falconer](https://github.com/P-J-FALCONER/)
+## To-Do
+* get link to sites about page in readme
+* download link for resume
+* remove blog posts
+* 
