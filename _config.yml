@@ -5,7 +5,6 @@ locale: en_US
 description: Pat Falconer's Website 
 logo: site-logo.png
 search: true
-url: https://P-J-Falconer.github.io
 
 # Jekyll configuration
 
