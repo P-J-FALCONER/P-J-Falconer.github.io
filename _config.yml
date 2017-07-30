@@ -35,17 +35,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Pat Falconer
   avatar: bio-photo.jpg
   email: patrick.j.falconer@gmail.com
   disqus-shortname:
   github: P-J-FALCONER
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: https://stackexchange.com/users/11447029/patrick-falconer
   linkedin: pat-the-programmer
-  instagram: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
