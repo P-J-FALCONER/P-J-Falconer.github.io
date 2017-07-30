@@ -6,7 +6,7 @@
 ## To-Do
 * download link for resume
 * remove blog posts
-* clever line to replace "patrick falconers website"
 * new favicon
 * new site description
 * author bio
+* need site title
