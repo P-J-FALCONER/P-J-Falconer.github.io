@@ -5,7 +5,6 @@
 ### [Pat Falconer](https://github.com/P-J-FALCONER/)
 ## To-Do
 * download link for resume
-* remove blog posts
 * new favicon
 * new site description
 * author bio
