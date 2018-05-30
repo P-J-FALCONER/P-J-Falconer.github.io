@@ -9,3 +9,6 @@
 * new site description
 * author bio
 * need site title
+### Blog/Article Ideas
+* Dyanmo
+* Bash
